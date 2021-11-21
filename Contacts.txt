@@ -1,0 +1,37 @@
+[
+    {
+        "address": "10 Grey Street",
+        "birthday": "12/10/2000",
+        "firstName": "John",
+        "phoneNumber": "12894578128",
+        "surname": "Smith"
+    },
+    {
+        "address": "23 Northumberland Street",
+        "birthday": "23/04/1998",
+        "firstName": "Jane",
+        "phoneNumber": "23525924755",
+        "surname": "Doe"
+    },
+    {
+        "address": "47 Benton Road",
+        "birthday": "09/02/1980",
+        "firstName": "Kyle",
+        "phoneNumber": "28782465793",
+        "surname": "Hook"
+    },
+    {
+        "address": "34 Lemon Road",
+        "birthday": "01/03/1972",
+        "firstName": "Kate",
+        "phoneNumber": "13868484552",
+        "surname": "Bridgers"
+    },
+    {
+        "address": "56 Duck Street",
+        "birthday": "20/01/1995",
+        "firstName": "Angela",
+        "phoneNumber": "27567265343",
+        "surname": "Williams"
+    }
+]
